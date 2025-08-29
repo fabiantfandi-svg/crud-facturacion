@@ -1,7 +1,7 @@
 while True:
     print("\n--- Menú Principal ---")
-    print("1. Opciones del inventario")
-    print("2. Opciones de las Facturas")
+    print("1. inventario")
+    print("2. Facturas")
     print("3. Salir")
 
     opcion = input("Elija una opción: ")
