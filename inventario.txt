@@ -1,3 +1,1 @@
-Aceite,  20000,  1  
-Arroz ,  3000,  3  
-Queso,  10000,  2  
+queso,  5000,  67  
