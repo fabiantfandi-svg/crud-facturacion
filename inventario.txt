@@ -1,2 +1,3 @@
-pasta  ,  6000  ,  45
-queso,  5000,  67  
+Aceite,  20000,  1  
+Arroz ,  3000,  3  
+Queso,  10000,  2  
